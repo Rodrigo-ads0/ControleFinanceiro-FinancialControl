@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5ba12f;
+      }
+
+      .cls-2 {
+        fill: #8f1418;
+      }
+
+      .cls-3 {
+        fill: #f3f3f3;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="500" cy="500" r="362.062"/>
+  <circle id="Elipse_1_copiar" data-name="Elipse 1 copiar" class="cls-2" cx="500" cy="500" r="362.062"/>
+  <path id="Forma_4_copiar" data-name="Forma 4 copiar" class="cls-3" d="M736.986,496.981L500,667.144,263.014,496.981V353.132L498.546,523.295l238.44-170.163V496.981Z"/>
+</svg>

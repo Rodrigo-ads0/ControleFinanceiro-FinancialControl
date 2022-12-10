@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5ba12f;
+      }
+
+      .cls-2 {
+        fill: #f3f3f3;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="500" cy="500" r="362.062"/>
+  <path id="Forma_4" data-name="Forma 4" class="cls-2" d="M263.014,499.157L500,328.994,736.986,499.157V643.006L501.454,472.843,263.014,643.006V499.157Z"/>
+</svg>

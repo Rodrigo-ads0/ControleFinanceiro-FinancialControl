@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle-Financeiro</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <section class="top">
+            <h1>Controle Financeiro</h1>
+            <p>Controle suas finanças com alguns cliques</p>
+        </section>
+        <section class="bot">
+            <div class="box-bot">
+                <div class="box-infos">
+                    <div class="infos">
+                        <div class="subtitle"><h2>Entradas</h2><img src="assets/setaEntrada.svg" alt="Icone Entradas"></div>
+                        <div class="juntos"><p>R$</p><span class="incomes">R$0.00</span></div>
+                    </div>
+                    <div class="infos">
+                        <div class="subtitle"><h2>Saídas</h2><img src="assets/setaSaida.svg" alt="Icone Saídas"></div>
+                        <div class="juntos"><p>R$</p>
+                            <span class="expenses">R$0.00</span>
+                        </div>
+                    </div>
+                    <div class="infos">
+                        <div class="subtitle"><h2>Total</h2><img src="assets/total.svg" alt="Icone Total"></div>
+                        <div class="juntos"><p>R$</p>
+                            <span class="total">R$0.00</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-inputs">
+                    <div class="desc-input">
+                        <label for="desc">Descrição</label>
+                        <input type="text" id="desc">
+                    </div>
+                    <div class="valor-input">
+                        <label for="amount">Valor</label>
+                        <input type="number" id="amount">
+                    </div>
+                    <div class="entrada-saida-input">
+                        <div class="entrada-saida-input">
+                            <label for="type">Tipo</label>
+                            <select id="type">
+                                <option>Entrada</option>
+                                <option>Saída</option>
+                            </select>
+                        </div>
+                    </div>
+                    <button id="btnNew">Adicionar</button>
+                </div>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="descricao">Descrição</th>
+                            <th class="valor">Valor</th>
+                            <th class="tipo">Tipo</th>
+                            <th class="lixo"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>

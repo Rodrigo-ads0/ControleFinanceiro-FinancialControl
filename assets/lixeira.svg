@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+        stroke: #000;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 53.8px;
+      }
+    </style>
+  </defs>
+  <path id="Retângulo_Arredondado_1" data-name="Retângulo Arredondado 1" class="cls-1" d="M237.5,244.2h525A23.5,23.5,0,0,1,786,267.7v4a23.5,23.5,0,0,1-23.5,23.5h-525A23.5,23.5,0,0,1,214,271.7v-4A23.5,23.5,0,0,1,237.5,244.2Z"/>
+  <path id="Forma_2" data-name="Forma 2" class="cls-1" d="M393,254.2v-37s4.434-14.97,16-16H593s14.365,2.682,14,23-1,23-1,23l53,2v-38s-3.019-62.043-74-63-184-1-184-1-61,12.129-61,65v37l1,6h33Z"/>
+  <path id="Forma_3" data-name="Forma 3" class="cls-2" d="M715.639,804.68l35.655-410.973s0.826-74.325-94.768-62.866l-357.49.938s-63.562,6.485-54.421,93.83l31.9,359.367s-5.988,63.952,76.94,66.619,297.439,0,297.439,0S702.466,846.6,715.639,804.68Z"/>
+  <path id="Retângulo_Arredondado_3" data-name="Retângulo Arredondado 3" class="cls-1" d="M377.391,450.433a25.5,25.5,0,0,1,26.9,24.013l13.326,234.622A25.5,25.5,0,1,1,366.7,711.96L353.378,477.338A25.5,25.5,0,0,1,377.391,450.433Z"/>
+  <path id="Retângulo_Arredondado_3_copiar_2" data-name="Retângulo Arredondado 3 copiar 2" class="cls-1" d="M623.988,450.3a25.434,25.434,0,0,1,23.725,27.057L632.942,712.2a25.377,25.377,0,1,1-50.655-3.15l14.771-234.84A25.476,25.476,0,0,1,623.988,450.3Z"/>
+  <path id="Retângulo_Arredondado_3_copiar" data-name="Retângulo Arredondado 3 copiar" class="cls-1" d="M500.5,449.2A25.5,25.5,0,0,1,526,474.7v235a25.5,25.5,0,0,1-51,0v-235A25.5,25.5,0,0,1,500.5,449.2Z"/>
+</svg>
