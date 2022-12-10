@@ -282,7 +282,7 @@ td {
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 459px) {
     h1 {
         font-size: 2rem;
     }
@@ -292,7 +292,7 @@ td {
     }
 
     .infos span {
-        font-size: 1.3rem;
+        font-size: 1rem;
         font-weight: 700;
     }
 
