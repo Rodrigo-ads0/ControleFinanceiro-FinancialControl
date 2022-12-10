@@ -214,6 +214,11 @@ td {
     width: 10rem;
 }
 
+.columnTrash button {
+    border: none;
+    background-color: transparent;
+}
+
 .juntos {
     align-items: center;
     display: flex;
